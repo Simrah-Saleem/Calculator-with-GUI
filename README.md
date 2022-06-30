@@ -15,7 +15,7 @@ Dark Theme
 Dark Grey 8 Theme
 ![grey 8 theme](https://user-images.githubusercontent.com/100465483/176656169-ccbd5f8a-daf5-4de8-8003-19e4b612d221.png)
 
-Random Themw
+Random Theme
 ![random](https://user-images.githubusercontent.com/100465483/176656183-a1a006b5-6442-4cb7-8950-443a2569b1f1.png)
 
 
