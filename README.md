@@ -3,7 +3,7 @@ Calculator with Themes made with GUI in Python
 
 Libraries:
 PySimpleGUI 
-Numpy
+
 
 
 Light Grey 1 Theme
